@@ -1,0 +1,10 @@
+# zig
+.zig-cache/
+zig-out/
+libs/
+
+# project
+release/
+
+# Misc.
+.DS_Store
